@@ -1,0 +1,24 @@
+{
+  "name": "s6l5",
+  "version": "1.0.0",
+  "description": "2023 Day 10 - Progetto settimanale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csarmientobaca/S6L5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csarmientobaca/S6L5/issues"
+  },
+  "homepage": "https://github.com/csarmientobaca/S6L5#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha1",
+    "bootstrap-icons": "^1.10.3"
+  }
+}
