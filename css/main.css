@@ -11628,10 +11628,6 @@ body {
   border: 1px solid white;
 }
 
-.nav-link {
-  color: #fff !important;
-}
-
 .wrapper {
   width: 100%;
   position: absolute;
@@ -11649,7 +11645,7 @@ body {
 }
 
 .navbar-red:hover .wrapper {
-  clip-path: polygon(81% 0, 100% 0, 100% 50%, 100% 100%, 65% 100%);
+  clip-path: polygon(81% 0, 100% 0, 100% 50%, 100% 100%, 60% 100%);
 }
 
 .navbar-brand:hover {
@@ -11658,7 +11654,6 @@ body {
 
 .navbar-red {
   background-color: red;
-  color: #fff;
 }
 
 .all-show {
