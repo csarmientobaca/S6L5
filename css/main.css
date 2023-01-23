@@ -11649,7 +11649,7 @@ body {
 }
 
 .navbar-brand:hover {
-  color: #fff;
+  color: black;
 }
 
 .navbar-red {
@@ -11671,6 +11671,20 @@ main {
 .dog-naso {
   width: 80%;
   border-radius: 50%;
+}
+
+.carousel-inner > .carousel-item > img {
+  width: 640px;
+  height: 400px;
+  border-radius: 20px;
+}
+
+#carouselExampleDark {
+  width: 30%;
+}
+
+#carouselExampleDark {
+  border-radius: 20px;
 }
 
 /*# sourceMappingURL=main.css.map */
