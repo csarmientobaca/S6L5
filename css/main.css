@@ -11674,13 +11674,21 @@ main {
 }
 
 #carouselExampleDark {
-  width: 30%;
   color: bisque;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+  font-size: small;
+}
+#carouselExampleDark .carousel-inner > .carousel-item {
+  padding: 3% 20%;
 }
 #carouselExampleDark .carousel-inner > .carousel-item > img {
-  width: 640px;
-  height: 400px;
+  width: 20rem;
+  height: 25rem;
   border-radius: 20px;
+}
+#carouselExampleDark .carousel-inner p {
+  padding: 10% 10%;
 }
 
 /*# sourceMappingURL=main.css.map */

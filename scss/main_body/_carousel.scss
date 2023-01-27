@@ -3,17 +3,25 @@
 
 
 #carouselExampleDark {
-    width: 30%;
     color: bisque;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    font-size: small;
 
     .carousel-inner {
         >.carousel-item {
+            padding: 3% 20%;
+
 
             >img {
-                width: 640px;
-                height: 400px;
+                width: 20rem;
+                height: 25rem;
                 border-radius: 20px;
             }
+        }
+
+        p {
+            padding: 10% 10%;
         }
     }
 }
